@@ -1,0 +1,684 @@
+.footerChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1920px;
+  height: 548px;
+}
+.getSocial {
+  position: absolute;
+  top: 218px;
+  left: 1401px;
+  line-height: 96.8%;
+  display: inline-block;
+  width: 284px;
+  height: 88px;
+}
+.socialMedia59952669607201Icon,
+.socialMedia59952669607202Icon {
+  position: absolute;
+  top: 315px;
+  left: 1425px;
+  width: 106px;
+  height: 132px;
+  object-fit: cover;
+}
+.socialMedia59952669607202Icon {
+  top: 306px;
+  left: 1531px;
+  width: 130px;
+  height: 154px;
+}
+.location {
+  position: absolute;
+  top: 218px;
+  left: 308px;
+  line-height: 96.8%;
+  display: inline-block;
+  width: 261px;
+  height: 88px;
+}
+.sanasumaBeachChalet {
+  margin-block-start: 0;
+  margin-block-end: 8px;
+}
+.p {
+  margin: 0;
+}
+.sanasumaBeachChaletContainer {
+  position: absolute;
+  top: 306px;
+  left: 123px;
+  font-size: 29px;
+  line-height: 96.8%;
+  color: #f5e9e9;
+  display: inline-block;
+  width: 631px;
+  height: 150px;
+}
+.footerItem {
+  position: absolute;
+  top: 106px;
+  left: 5px;
+  border-top: 2px solid #f9f1f1;
+  box-sizing: border-box;
+  width: 1916.02px;
+  height: 2px;
+}
+.footer,
+.gallerySectionChild {
+  position: absolute;
+  width: 1920px;
+}
+.footer {
+  top: 15659px;
+  left: 0;
+  height: 548px;
+  overflow: hidden;
+}
+.gallerySectionChild {
+  top: 0;
+  left: calc(50% - 960px);
+  background-color: var(--color-gray-100);
+  height: 7714px;
+}
+.animalsGallery {
+  position: absolute;
+  top: 120px;
+  left: calc(50% - 880px);
+  font-size: var(--font-size-119xl);
+  line-height: 96.8%;
+  font-family: var(--font-aref-ruqaa-ink);
+  color: var(--color-whitesmoke-200);
+  display: inline-block;
+  width: 1309px;
+  height: 297px;
+}
+.yalaNationalPark,
+.yalasEnigmaticLeopards {
+  position: absolute;
+  line-height: 130%;
+  display: inline-block;
+}
+.yalaNationalPark {
+  top: 933px;
+  left: 1000px;
+  text-align: justify;
+  width: 838px;
+  height: 760px;
+}
+.yalasEnigmaticLeopards {
+  top: 3677px;
+  left: calc(50% - 830px);
+  text-align: center;
+  width: 1666px;
+  height: 335px;
+}
+.majesticEncountersWith,
+.yalaNationalPark1 {
+  position: absolute;
+  left: calc(50% + 207px);
+  line-height: 130%;
+  display: inline-block;
+}
+.yalaNationalPark1 {
+  top: 4297px;
+  text-align: justify;
+  width: 678px;
+  height: 815px;
+}
+.majesticEncountersWith {
+  top: 4127px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-gold);
+  width: 658px;
+  height: 112px;
+}
+.gallerySectionInner,
+.gallerySectionItem,
+.rectangleIcon {
+  position: absolute;
+  top: 454px;
+  left: 72px;
+  width: 544px;
+  height: 355px;
+  object-fit: cover;
+}
+.gallerySectionInner,
+.rectangleIcon {
+  top: 2840px;
+  width: 1766px;
+  height: 812px;
+}
+.rectangleIcon {
+  top: 4127px;
+  width: 698px;
+  height: 957px;
+}
+.gallerySectionChild1,
+.gallerySectionChild2 {
+  position: absolute;
+  top: 5265px;
+  left: 68px;
+  width: 578px;
+  height: 427px;
+  object-fit: cover;
+}
+.gallerySectionChild2 {
+  top: 5707px;
+  left: 72px;
+  width: 570px;
+  height: 419px;
+}
+.gallerySectionChild3,
+.gallerySectionChild4,
+.gallerySectionChild5 {
+  position: absolute;
+  top: 5707px;
+  left: 658px;
+  width: 602px;
+  height: 419px;
+  object-fit: cover;
+}
+.gallerySectionChild4,
+.gallerySectionChild5 {
+  left: 1277px;
+  width: 565px;
+}
+.gallerySectionChild5 {
+  top: 6149px;
+  width: 571px;
+}
+.gallerySectionChild6,
+.gallerySectionChild7,
+.gallerySectionChild8 {
+  position: absolute;
+  top: 6743px;
+  left: 72px;
+  width: 544px;
+  height: 655px;
+  object-fit: cover;
+}
+.gallerySectionChild7,
+.gallerySectionChild8 {
+  left: 688px;
+}
+.gallerySectionChild8 {
+  left: 1304px;
+  width: 538px;
+}
+.gallerySectionChild10,
+.gallerySectionChild11,
+.gallerySectionChild9 {
+  position: absolute;
+  top: 5265px;
+  left: 658px;
+  width: 1190px;
+  height: 419px;
+  object-fit: cover;
+}
+.gallerySectionChild10,
+.gallerySectionChild11 {
+  top: 6149px;
+  left: 72px;
+  width: 1188px;
+}
+.gallerySectionChild11 {
+  top: 1636px;
+  left: 1000px;
+  width: 838px;
+  height: 1080px;
+}
+.gallerySectionChild12,
+.gallerySectionChild13 {
+  position: absolute;
+  top: 933px;
+  left: 72px;
+  width: 852px;
+  height: 1069px;
+  object-fit: cover;
+}
+.gallerySectionChild13 {
+  top: 2136px;
+  height: 580px;
+}
+.gallerySectionChild14,
+.gallerySectionChild15,
+.gallerySectionChild16 {
+  position: absolute;
+  top: 454px;
+  left: 688px;
+  width: 544px;
+  height: 355px;
+  object-fit: cover;
+}
+.gallerySectionChild15,
+.gallerySectionChild16 {
+  left: 1304px;
+}
+.gallerySectionChild16 {
+  top: 4599px;
+  left: 676px;
+  width: 402px;
+  height: 448px;
+}
+.discoverTheEpitome {
+  position: absolute;
+  top: 7510px;
+  left: calc(50% - 682px);
+  line-height: 96.8%;
+  font-weight: 300;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 1370px;
+  height: 157px;
+}
+.gallerySection {
+  position: absolute;
+  top: 7945px;
+  left: 0;
+  width: 1920px;
+  height: 7714px;
+  overflow: hidden;
+  text-align: left;
+  color: var(--color-whitesmoke-100);
+}
+.photo2023093015151 {
+  position: absolute;
+  top: 4813px;
+  left: calc(50% - 960px);
+  width: 1920px;
+  height: 906.3px;
+  object-fit: cover;
+}
+.bodySectionChild {
+  position: absolute;
+  top: 1730px;
+  left: -1px;
+  background-color: var(--color-gainsboro);
+  width: 1921px;
+  height: 1211px;
+}
+.bodySectionItem {
+  position: absolute;
+  top: 2941px;
+  left: calc(50% - 960px);
+  background-color: var(--color-gray-100);
+  width: 1920px;
+  height: 1872px;
+}
+.indulgeInThe,
+.natureAndCreate,
+.ourAccommodationsAre {
+  position: absolute;
+  line-height: 130%;
+  display: inline-block;
+}
+.ourAccommodationsAre {
+  top: 1815px;
+  left: calc(50% - 856px);
+  color: #090808;
+  width: 1730px;
+}
+.indulgeInThe,
+.natureAndCreate {
+  top: 3867px;
+  left: 86px;
+  text-align: justify;
+  width: 838px;
+}
+.natureAndCreate {
+  left: 1003px;
+}
+.bodySectionChild1,
+.bodySectionInner {
+  position: absolute;
+  top: 3138px;
+  left: 72px;
+  width: 852px;
+  height: 639px;
+  object-fit: cover;
+}
+.bodySectionChild1 {
+  left: 996px;
+}
+.bodySectionChild2,
+.bodySectionChild3,
+.bodySectionChild4 {
+  position: absolute;
+  top: 2248px;
+  left: 695px;
+  width: 537px;
+  height: 552px;
+  object-fit: cover;
+}
+.bodySectionChild3,
+.bodySectionChild4 {
+  left: 1304px;
+  width: 544px;
+}
+.bodySectionChild4 {
+  left: 72px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 4813px;
+  left: calc(50% - 960px);
+  background-color: rgba(32, 24, 24, 0.49);
+  width: 1920px;
+  height: 898px;
+}
+.whereComfortMeetsLuxury {
+  color: var(--color-whitesmoke-200);
+}
+.senasumaWhereComfortContainer,
+.yourDestinationFor {
+  position: absolute;
+  line-height: 96.8%;
+  font-family: var(--font-aref-ruqaa-ink);
+  display: inline-block;
+}
+.senasumaWhereComfortContainer {
+  top: 4302px;
+  left: 72px;
+  font-size: var(--font-size-119xl);
+  text-align: left;
+  width: 1599px;
+  height: 710px;
+  color: var(--color-gold);
+}
+.yourDestinationFor {
+  top: 5113px;
+  left: calc(50% - 389px);
+  font-size: 93px;
+  color: rgba(234, 233, 224, 0.75);
+  width: 798px;
+  height: 297px;
+}
+.familyRoomsBg,
+.familyRoomsOverlayBg {
+  position: absolute;
+  top: 1004px;
+  width: 1920px;
+  height: 726px;
+}
+.familyRoomsOverlayBg {
+  left: 0;
+  background-color: rgba(10, 1, 1, 0.57);
+}
+.familyRoomsBg {
+  left: calc(50% - 960px);
+  object-fit: cover;
+}
+.experienceUnforgettableFamil {
+  position: absolute;
+  top: 1443px;
+  left: calc(50% - 734px);
+  line-height: 130%;
+  color: var(--color-white);
+  display: inline-block;
+  width: 1485px;
+}
+.familyRooms {
+  position: absolute;
+  top: 1199px;
+  left: calc(50% - 726px);
+  font-size: var(--font-size-119xl);
+  line-height: 96.8%;
+  font-family: var(--font-aref-ruqaa-ink);
+  display: inline-block;
+  width: 1470px;
+  height: 168px;
+}
+.openAirImgFrame,
+.roomsSuitsBg {
+  position: absolute;
+  background-color: var(--color-gainsboro);
+}
+.roomsSuitsBg {
+  top: -3px;
+  left: calc(50% - 961px);
+  width: 1921px;
+  height: 1007px;
+}
+.openAirImgFrame {
+  top: 292px;
+  left: 1304px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 544px;
+  height: 556px;
+}
+.openAirImg {
+  position: absolute;
+  top: 297px;
+  left: 1310px;
+  width: 534px;
+  height: 544px;
+  object-fit: cover;
+}
+.lobbyImgFrame {
+  position: absolute;
+  top: 292px;
+  left: 688px;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 544px;
+  height: 556px;
+}
+.lobbyImgIcon {
+  position: absolute;
+  top: 297px;
+  left: 693px;
+  width: 534px;
+  height: 544px;
+  object-fit: cover;
+}
+.bedImgFrame {
+  position: absolute;
+  top: 292px;
+  left: 72px;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 544px;
+  height: 556px;
+}
+.bedImgIcon {
+  position: absolute;
+  top: 298px;
+  left: 77px;
+  width: 534px;
+  height: 544px;
+  object-fit: cover;
+}
+.roomsSuits,
+.yourStayYour {
+  position: absolute;
+  line-height: 96.8%;
+  display: inline-block;
+}
+.roomsSuits {
+  top: 59px;
+  left: 72px;
+  font-size: var(--font-size-119xl);
+  font-family: var(--font-aref-ruqaa-ink);
+  color: var(--color-black);
+  text-align: left;
+  width: 1606px;
+  height: 168px;
+}
+.yourStayYour {
+  top: 5597px;
+  left: calc(50% - 403px);
+  color: var(--color-white);
+  width: 827px;
+  height: 113px;
+}
+.bodySection {
+  position: absolute;
+  top: 2234px;
+  left: calc(50% - 960px);
+  width: 1920px;
+  height: 5711px;
+  overflow: hidden;
+  color: var(--color-whitesmoke-100);
+}
+.logoSectionBg {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 620px);
+  right: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  height: 645px;
+}
+.luxurySuitesFor {
+  position: absolute;
+  width: calc(100% - 719.62px);
+  top: 77px;
+  left: 54px;
+  font-size: var(--font-size-119xl);
+  line-height: 96.8%;
+  font-family: var(--font-aref-ruqaa-ink);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.companyLogoIcon {
+  position: absolute;
+  top: 211px;
+  right: 63px;
+  width: 510px;
+  height: 308px;
+  object-fit: cover;
+}
+.descriptionBg {
+  position: absolute;
+  top: 642px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1920px;
+  height: 593px;
+}
+.essenceOfSri,
+.senasumaWhereLuxury {
+  position: absolute;
+  top: 732px;
+  left: 67px;
+  line-height: 130%;
+  display: inline-block;
+  width: 770px;
+}
+.essenceOfSri {
+  left: 1000px;
+  width: 852px;
+  height: 414px;
+}
+.headerImageIcon,
+.heroSection {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.heroSection {
+  top: 1000px;
+  width: 1920px;
+  height: 1234px;
+  text-align: justify;
+}
+.headerImageIcon {
+  width: 100%;
+  top: 0;
+  right: 0;
+  max-width: 100%;
+  height: 1000px;
+  object-fit: cover;
+}
+.senasuma {
+  color: var(--color-gold);
+}
+.welcomeToSenasuma1 {
+  font-weight: 500;
+}
+.whereEveryStay {
+  margin: 0;
+  font-size: var(--font-size-26xl);
+}
+.welcomeToSenasumaContainer {
+  position: absolute;
+  width: 48.65%;
+  top: 103px;
+  left: 25.68%;
+  text-align: center;
+  display: inline-block;
+  height: 202px;
+}
+.beyondTheExpectationContainer {
+  position: absolute;
+  width: calc(100% - 516px);
+  top: calc(50% + 132px);
+  left: 54px;
+  font-size: 173px;
+  line-height: 88.3%;
+  font-family: var(--font-aref-ruqaa-ink);
+  color: #f6eeee;
+  display: inline-block;
+  height: 572px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 32px;
+  background-color: #3eb74a;
+  width: 315px;
+  height: 83px;
+}
+.bookNow {
+  position: absolute;
+  top: 28px;
+  left: 53px;
+  line-height: 88.3%;
+  display: inline-block;
+  width: 246px;
+  height: 27px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 863px;
+  left: 1519px;
+  width: 315px;
+  height: 83px;
+  font-size: var(--font-size-24xl);
+  color: #f6f2f2;
+  font-family: var(--font-arial-hebrew);
+}
+.header,
+.home {
+  overflow: hidden;
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1000px;
+  text-align: left;
+  font-size: 70px;
+  color: var(--color-whitesmoke-300);
+  font-family: var(--font-anek-telugu);
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 16209px;
+  text-align: center;
+  font-size: var(--font-size-24xl);
+  color: var(--color-white);
+  font-family: var(--font-adelle-sans-devanagari);
+}

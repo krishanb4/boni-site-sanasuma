@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Adelle+Sans+Devanagari:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anek+Telugu:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arial+Hebrew:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-arial-hebrew: "Arial Hebrew";
+  --font-aref-ruqaa-ink: "Aref Ruqaa Ink";
+  --font-anek-telugu: "Anek Telugu";
+  --font-adelle-sans-devanagari: "Adelle Sans Devanagari";
+
+  /* font sizes */
+  --font-size-24xl: 43px;
+  --font-size-26xl: 45px;
+  --font-size-119xl: 138px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-whitesmoke-100: #f9f3f3;
+  --color-whitesmoke-200: #f4eeee;
+  --color-whitesmoke-300: #f2eded;
+  --color-gold: #ffe81d;
+  --color-gray-100: #201818;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+}
